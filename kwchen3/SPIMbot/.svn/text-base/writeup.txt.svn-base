@@ -1,0 +1,4 @@
+For our Spimbot project, first scanned over the entire area for tokens. 
+After scanning, we took the x and y coordinate pairs and placed them into an array.
+Taking the array, we went over the tokens one by one, based on their x and y coordinate pairs.
+We stop after collecting all tokens.

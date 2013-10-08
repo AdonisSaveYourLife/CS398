@@ -1,0 +1,15 @@
+kwchen3 total : 100/100
+Test CountOnes	10/10	
+Test 1: CORRECT.
+Test 2: CORRECT.
+Test 3: CORRECT.
+Test 4: CORRECT.
+Test 5: CORRECT.
+Test 6: CORRECT.
+Test ExtractMessage	10/10	
+Test 1: CORRECT Message.
+Test 2: CORRECT Message.
+Test 3: CORRECT Message.
+Test 4: CORRECT Message.
+
+SUBMITTED ON TIME

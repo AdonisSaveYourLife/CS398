@@ -1,0 +1,14 @@
+kwchen3 total : 100/100
+Problem 1: Preserve registers across insert call	5/5	Passed!	
+Problem 1: Insert elements at head	10/10	Passed!	
+Problem 1: Insert elements at tail	10/10	Passed!	
+Problem 1: Preserve registers across delete call	5/5	Passed!	
+Problem 1: Delete from tail	10/10	Passed!	
+Problem 1: Delete from head	10/10	Passed!	
+Problem 2: Preserve registers across sort call	10/10	Passed!	
+Problem 2: Sort reversed list	10/10	Passed!	
+Problem 2: Sort a tangled list	10/10	Passed!	
+Problem 2: Sort a singleton list	10/10	Passed!	
+Problem 2: Sort a list with duplicates	10/10	Passed!	
+
+SUBMITTED ON TIME

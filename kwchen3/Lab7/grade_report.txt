@@ -1,0 +1,15 @@
+kwchen3 total : 60/100
+Problem 1: Empty array	5/5	Passed!	
+Problem 1: Repeat call	5/5	Passed!	
+Problem 1: Negative	10/10	Passed!	
+Problem 1: 33 booleans	10/10	Passed!	
+Problem 1: Callee-saved registers	10/10	Passed!	
+Problem 1: Uninitialized registers	10/10	Passed!	
+Problem 2: Empty command	5/5	Passed!	
+Problem 2: Multiple calls	5/5	Passed!	
+Problem 2: Parsing arguments	0/10	Failed! Examine file test_problem2_2.s	
+Problem 2: Callee-saved registers	0/10	Failed! Examine file test_problem2_3.s	
+Problem 2: Uninitialized registers	0/10	Failed! Examine file test_problem2_4.s	
+Problem 2: Caller-saved registers	0/10	Failed! Examine file test_problem2_5.s	
+
+SUBMITTED ON TIME

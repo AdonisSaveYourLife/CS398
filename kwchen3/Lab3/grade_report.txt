@@ -1,0 +1,128 @@
+kwchen3 total : 100/100
+alu32 Test	60/60	
+	*Passed test: Zero flag
+	*Passed test: Add 0x22222222+0x11111111=0x33333333
+	*Passed test: Sub 0x22222222-0x11111111=0x11111111
+	*Passed test: AND f0ca9653&12345678=10001650
+	*Passed test: OR f0ca9653|fedcba98=fedebedb
+	*Passed test: NOR ~(f0ca9653|12345678)=d012984
+	*Passed test: XOR f0ca9653^fedcba98=e162ccb
+	*Passed test: Overflow 1 0x7fffffff+1
+	*Passed test: Oveflow 2 0x80000000-1
+	*Passed test: Negative flag	
+alu1 Test	20/20	
+	*Passed test: 1
+	*Passed test: 2
+	*Passed test: 3
+	*Passed test: 4
+	*Passed test: 5
+	*Passed test: 6
+	*Passed test: 7
+	*Passed test: 8
+	*Passed test: 9
+	*Passed test: 10
+	*Passed test: 11
+	*Passed test: 12
+	*Passed test: 13
+	*Passed test: 14
+	*Passed test: 15
+	*Passed test: 16
+	*Passed test: 17
+	*Passed test: 18
+	*Passed test: 19
+	*Passed test: 20
+	*Passed test: 21
+	*Passed test: 22
+	*Passed test: 23
+	*Passed test: 24
+	*Passed test: 25
+	*Passed test: 26
+	*Passed test: 27
+	*Passed test: 28
+	*Passed test: 29
+	*Passed test: 30
+	*Passed test: 31
+	*Passed test: 32
+	*Passed test: 33
+	*Passed test: 34
+	*Passed test: 35
+	*Passed test: 36
+	*Passed test: 37
+	*Passed test: 38
+	*Passed test: 39
+	*Passed test: 40
+	*Passed test: 41
+	*Passed test: 42
+	*Passed test: 43
+	*Passed test: 44
+	*Passed test: 45
+	*Passed test: 46
+	*Passed test: 47
+	*Passed test: 48	
+mux4 Test	20/20	
+	*Passed test: 1
+	*Passed test: 2
+	*Passed test: 3
+	*Passed test: 4
+	*Passed test: 5
+	*Passed test: 6
+	*Passed test: 7
+	*Passed test: 8
+	*Passed test: 9
+	*Passed test: 10
+	*Passed test: 11
+	*Passed test: 12
+	*Passed test: 13
+	*Passed test: 14
+	*Passed test: 15
+	*Passed test: 16
+	*Passed test: 17
+	*Passed test: 18
+	*Passed test: 19
+	*Passed test: 20
+	*Passed test: 21
+	*Passed test: 22
+	*Passed test: 23
+	*Passed test: 24
+	*Passed test: 25
+	*Passed test: 26
+	*Passed test: 27
+	*Passed test: 28
+	*Passed test: 29
+	*Passed test: 30
+	*Passed test: 31
+	*Passed test: 32
+	*Passed test: 33
+	*Passed test: 34
+	*Passed test: 35
+	*Passed test: 36
+	*Passed test: 37
+	*Passed test: 38
+	*Passed test: 39
+	*Passed test: 40
+	*Passed test: 41
+	*Passed test: 42
+	*Passed test: 43
+	*Passed test: 44
+	*Passed test: 45
+	*Passed test: 46
+	*Passed test: 47
+	*Passed test: 48
+	*Passed test: 49
+	*Passed test: 50
+	*Passed test: 51
+	*Passed test: 52
+	*Passed test: 53
+	*Passed test: 54
+	*Passed test: 55
+	*Passed test: 56
+	*Passed test: 57
+	*Passed test: 58
+	*Passed test: 59
+	*Passed test: 60
+	*Passed test: 61
+	*Passed test: 62
+	*Passed test: 63
+	*Passed test: 64	
+
+SUBMITTED ON TIME

@@ -1,0 +1,25 @@
+kwchen3 total : 100/100
+Test Decoder	50/50	
+	*Passed test: Decode BEQ.
+	*Passed test: Decode BNE.
+	*Passed test: Decode J.
+	*Passed test: Decode JR.
+	*Passed test: Decode LUI.
+	*Passed test: Decode SLT.
+	*Passed test: Decode LW.
+	*Passed test: Decode LBU.
+	*Passed test: Decode SW.
+	*Passed test: Decode SB.	
+Test Instructions	50/50	
+	*Passed test:  LUI works
+	*Passed test:  LW works
+	*Passed test:  LBU works
+	*Passed test:  BEQ works
+	*Passed test:  SLT works
+	*Passed test:  SW works
+	*Passed test:  SB works
+	*Passed test:  J works
+	*Passed test:  JR works
+	*Passed test:  BNE works	
+
+SUBMITTED ON TIME

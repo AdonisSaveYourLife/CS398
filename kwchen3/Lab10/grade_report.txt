@@ -1,0 +1,69 @@
+kwchen3 total : 100/100
+Testing no_deps_or_beq	21/21	
+	*Passed test: Register 0
+	*Passed test: Register 1
+	*Passed test: Register 2
+	*Passed test: Register 3
+	*Passed test: Register 4
+	*Passed test: Register 5
+	*Passed test: Register 6
+	*Passed test: Register 7
+	*Passed test: Register 8
+	*Passed test: Register 9
+	*Passed test: Register 10
+	*Passed test: Register 11
+	*Passed test: Register 12	
+Testing beqs_but_no_deps	26/26	
+	*Passed test: Register 0
+	*Passed test: Register 1
+	*Passed test: Register 2
+	*Passed test: Register 3
+	*Passed test: Register 4
+	*Passed test: Register 5
+	*Passed test: Register 6
+	*Passed test: Register 7
+	*Passed test: Register 8
+	*Passed test: Register 9
+	*Passed test: Register 10
+	*Passed test: Register 11
+	*Passed test: Register 12
+	*Passed test: Register 13
+	*Passed test: Register 14
+	*Passed test: Register 15	
+Testing deps_but_no_beqs	19/19	
+	*Passed test: Register 0
+	*Passed test: Register 1
+	*Passed test: Register 2
+	*Passed test: Register 3
+	*Passed test: Register 4
+	*Passed test: Register 5
+	*Passed test: Register 6
+	*Passed test: Register 7
+	*Passed test: Register 8
+	*Passed test: Register 9
+	*Passed test: Register 10
+	*Passed test: Register 11	
+Testing pipeline	34/34	
+	*Passed test: Register 0
+	*Passed test: Register 1
+	*Passed test: Register 2
+	*Passed test: Register 3
+	*Passed test: Register 4
+	*Passed test: Register 5
+	*Passed test: Register 6
+	*Passed test: Register 7
+	*Passed test: Register 8
+	*Passed test: Register 9
+	*Passed test: Register 10
+	*Passed test: Register 11
+	*Passed test: Register 12
+	*Passed test: Register 13
+	*Passed test: Register 14
+	*Passed test: Register 15
+	*Passed test: Register 16
+	*Passed test: Register 17
+	*Passed test: Register 29
+	*Passed test: Register 30
+	*Passed test: Register 31	
+
+SUBMITTED ON TIME

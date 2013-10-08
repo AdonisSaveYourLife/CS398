@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/fa12-cs398/!svn/ver/3389/kwchen3/Lab1
+END
+sc2.vcd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/fa12-cs398/!svn/ver/1206/kwchen3/Lab1/sc2.vcd
+END
+sc_block.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fa12-cs398/!svn/ver/385/kwchen3/Lab1/sc_block.v
+END
+sc2_block.v
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fa12-cs398/!svn/ver/436/kwchen3/Lab1/sc2_block.v
+END
+sc_block_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/fa12-cs398/!svn/ver/385/kwchen3/Lab1/sc_block_tb.v
+END
+blackbox.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fa12-cs398/!svn/ver/387/kwchen3/Lab1/blackbox.v
+END
+sc2_block_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/fa12-cs398/!svn/ver/436/kwchen3/Lab1/sc2_block_tb.v
+END
+blackbox.tt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fa12-cs398/!svn/ver/445/kwchen3/Lab1/blackbox.tt
+END
+grade_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/fa12-cs398/!svn/ver/3389/kwchen3/Lab1/grade_report.txt
+END
+blackbox_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/fa12-cs398/!svn/ver/1206/kwchen3/Lab1/blackbox_tb.v
+END
+blackbox.vcd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/fa12-cs398/!svn/ver/1206/kwchen3/Lab1/blackbox.vcd
+END

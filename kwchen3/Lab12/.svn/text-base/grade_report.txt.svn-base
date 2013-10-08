@@ -1,0 +1,29 @@
+kwchen3 total : 100/100
+Test cache1	18/18	
+	Correctly calculated number of hits (465703 == 465703)
+	Correctly calculated number of hits (468722 == 468722)
+	Correctly calculated number of hits (99.36 == 99.36)	
+Test cache2	18/18	
+	Correctly calculated number of hits (437692 == 437692)
+	Correctly calculated number of hits (468722 == 468722)
+	Correctly calculated number of hits (93.38 == 93.38)	
+Test cache3	18/18	
+	Correctly calculated number of hits (420077 == 420077)
+	Correctly calculated number of hits (468722 == 468722)
+	Correctly calculated number of hits (89.62 == 89.62)	
+Test cache4	18/18	
+	Correctly calculated number of hits (438121 == 438121)
+	Correctly calculated number of hits (468722 == 468722)
+	Correctly calculated number of hits (93.47 == 93.47)	
+Test cache5	18/18	
+	Correctly calculated number of hits (466037 == 466037)
+	Correctly calculated number of hits (468722 == 468722)
+	Correctly calculated number of hits (99.43 == 99.43)	
+Test verbose	10/10	
+	Line 132 does not match expected output		HIT  364ef0	MISS 364ef0
+	Line 144 does not match expected output		HIT  bfde7ee0	MISS bfde7ee0
+	Line 237 does not match expected output		HIT  364eec	MISS 364eec
+	Line 254 does not match expected output		HIT  365698	MISS 365698
+	Line 274 does not match expected output		hits: 242, accesses: 273, hit rate: 88.64	hits: 238, accesses: 273, hit rate: 87.18	
+
+SUBMITTED ON TIME

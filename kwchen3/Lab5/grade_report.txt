@@ -1,0 +1,31 @@
+kwchen3 total : 95/100
+Testing mips_decoder	45/50	
+	*Passed test: Decode add.
+	*Passed test: Decode sub.
+	*Passed test: Decode and.
+	*Passed test: Decode or.
+	*Passed test: Decode nor.
+	*Passed test: Decode xor.
+	*Passed test: Decode addi.
+	*Passed test: Decode andi.
+	*Passed test: Decode ori.
+	*Passed test: Decode xori.
+	*Failed test: Test except signal.
+		Incorrect value for writeenable:	1
+	*Passed test:  except works
+	*Failed test:  writeenable works	
+Testing arith_machine	50/50	
+	*Passed test:  PC=PC+4
+	*Passed test:  add works
+	*Passed test:  sub works
+	*Passed test:  and works
+	*Passed test:  or works
+	*Passed test:  xor works
+	*Passed test:  nor works
+	*Passed test:  andi works
+	*Passed test:  ori works
+	*Passed test:  xori works
+	*Passed test:  addi works
+	*Passed test:  reset works	
+
+SUBMITTED ON TIME

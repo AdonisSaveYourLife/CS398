@@ -1,0 +1,11 @@
+kwchen3 total : 100/100
+Testing transpose	25/25	
+Achieved 2.02040816327x speedup. Times: 1.980000	0.980000	
+Testing prefetch	25/25	
+Achieved 1.34166666667x speedup. Times: 9.660000	7.200000	
+Testing fusion	25/25	
+Achieved 1.81663516068x speedup. Times: 9.610000	5.290000	
+Testing all	25/25	
+Achieved 2.23181818182x speedup. Times: 9.820000	4.400000	
+
+SUBMITTED ON TIME

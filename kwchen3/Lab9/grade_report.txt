@@ -1,0 +1,5 @@
+kwchen3 total : 100/100
+Problem 1 	25/25	Your bot: turns, moves, turns the correct angles, and drives in a triangle.	
+Problem 2	75/75	Your bot picked up 15 tokens.	
+
+SUBMITTED ON TIME

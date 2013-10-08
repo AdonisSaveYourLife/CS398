@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/fa12-cs398/!svn/ver/9305/kwchen3/Lab4
+END
+keypad_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/fa12-cs398/!svn/ver/3839/kwchen3/Lab4/keypad_tb.v
+END
+score_keeper.v
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/fa12-cs398/!svn/ver/3858/kwchen3/Lab4/score_keeper.v
+END
+grade_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/fa12-cs398/!svn/ver/9305/kwchen3/Lab4/grade_report.txt
+END
+rf.v
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/fa12-cs398/!svn/ver/3940/kwchen3/Lab4/rf.v
+END
+partners.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/fa12-cs398/!svn/ver/3369/kwchen3/Lab4/partners.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/fa12-cs398/!svn/ver/3309/kwchen3/Lab4/Makefile
+END
+score_keeper_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/fa12-cs398/!svn/ver/4775/kwchen3/Lab4/score_keeper_tb.v
+END
+rf_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/fa12-cs398/!svn/ver/4775/kwchen3/Lab4/rf_tb.v
+END
+keypad.v
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/fa12-cs398/!svn/ver/3839/kwchen3/Lab4/keypad.v
+END
+mux_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fa12-cs398/!svn/ver/3309/kwchen3/Lab4/mux_lib.v
+END

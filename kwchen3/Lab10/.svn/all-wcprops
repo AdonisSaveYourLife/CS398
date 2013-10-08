@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/fa12-cs398/!svn/ver/17023/kwchen3/Lab10
+END
+deps_but_no_beqs.data.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/deps_but_no_beqs.data.dat
+END
+beqs_but_no_deps.data.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/beqs_but_no_deps.data.dat
+END
+grade_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fa12-cs398/!svn/ver/17023/kwchen3/Lab10/grade_report.txt
+END
+no_deps_or_beq.data.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/no_deps_or_beq.data.dat
+END
+pipeline_test.text.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/pipeline_test.text.dat
+END
+pipelined_machine.v
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/fa12-cs398/!svn/ver/11145/kwchen3/Lab10/pipelined_machine.v
+END
+rom.v
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/rom.v
+END
+mux_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/mux_lib.v
+END
+deps_but_no_beqs.text.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/deps_but_no_beqs.text.dat
+END
+beqs_but_no_deps.text.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/beqs_but_no_deps.text.dat
+END
+pipeline_test.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/pipeline_test.s
+END
+no_deps_or_beq.text.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/no_deps_or_beq.text.dat
+END
+mips_defines.v
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/mips_defines.v
+END
+partners.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/fa12-cs398/!svn/ver/10935/kwchen3/Lab10/partners.txt
+END
+modules.v
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/modules.v
+END
+deps_but_no_beqs.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/deps_but_no_beqs.s
+END
+beqs_but_no_deps.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/beqs_but_no_deps.s
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fa12-cs398/!svn/ver/10332/kwchen3/Lab10/Makefile
+END
+no_deps_or_beq.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fa12-cs398/!svn/ver/10294/kwchen3/Lab10/no_deps_or_beq.s
+END
+pipeline_test.data.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/pipeline_test.data.dat
+END
+pipelined_machine_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fa12-cs398/!svn/ver/10265/kwchen3/Lab10/pipelined_machine_tb.v
+END

@@ -1,0 +1,10 @@
+Here is a description of the files you should find in your SVN repository:
+alu32.v			Implement your ALU in this file
+alu1_tb.v		A test bench for your one bit ALU
+example_generator.c	An example code generator in C
+example_generator.py	An example code generator in python
+alu32_tb.v		A skeleton test bench for the 32 bit ALU
+partners.txt		Put the netid of your partners in this file (one per line)
+
+The lab handout lives here:
+https://subversion.ews.illinois.edu/svn/fa12-cs398/_shared/handout3.pdf
